@@ -27,11 +27,7 @@ class Me:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default&hide_border=true&title_color=638ECC&icon_color=638ECC&rank_icon=github" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=default&hide_border=true&title_color=638ECC" height="150"/>
-</div>
+> 아무것도 없음ㅠ😭
 
 <br/>
 
