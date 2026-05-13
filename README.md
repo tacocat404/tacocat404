@@ -22,7 +22,7 @@ class Me:
 
 ## 🛠 Tech Stack
 
-**AI / ML**
+**AI / ML 이론 조끔암**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
