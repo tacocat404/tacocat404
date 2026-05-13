@@ -153,6 +153,6 @@ POWER ████░░░░░░░░░░░░░░░░  Git         
 <!-- 푸터 배너 — wave -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,50:0d1b2a,100:0a0a0a&height=120&section=footer&fontColor=00d4ff&animation=fadeIn" width="100%"/>
 
-`// SIGNAL END` &nbsp;|&nbsp; `🌮 TACOCAT404 © 2025 🐱` &nbsp;|&nbsp; `앞에서 읽어도 뒤에서 읽어도 나야 나`
+`// SIGNAL END` &nbsp;|&nbsp; `🌮 TACOCAT404 © 2025 🐱` &nbsp;|&nbsp; 
 
 </div>
